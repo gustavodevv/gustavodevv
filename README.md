@@ -41,22 +41,6 @@ Me chamo Luiz Gustavo Santos, tenho 22 anos e sou natural de SÃ£o Paulo. ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/HTML/HTML-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/CSS/CSS-original.svg" 
-/>
 
 <br/>
 <br/>
