@@ -1,67 +1,36 @@
-## # 👨🏻‍💻 Gustavo Santos
 
-**`Desenvolvedor Iniciante`**
+### 👨‍💻 Olá eu sou Luiz Gustavo Santos Serrano
 
-Me chamo Luiz Gustavo Santos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio no Professor Alverto Levy. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitario Senac. Gosto muito de tecnologia e compartilho meus codigos através do meu Github.
+Busco uma oportunidade para aplicar e expandir meus conhecimentos em tecnologia, contribuindo para o desenvolvimento de soluções inovadoras e eficientes.
+Tenho experiências profissionais anteriores que me proporcionaram habilidades em trabalho em equipe, resolução de problemas e atendimento ao cliente.
 
-<p align="left">
-    <a href="https://github.com/gustavodevv?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavodevv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gustavodevv?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavodevv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Atualmente cursando Análise e Desenvolvimento de Sistemas e desejo me desenvolver profissionalmente na área de TI, focando em desenvolvimento de software, análise de sistemas, help desk e banco de dados.
 
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodevv&show_icons=true&theme=great-gatsby)](https://github.com/gustavodevv/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodevv&theme=great-gatsby&layout=compact)
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+##
 
-<br/>
-<br/>
+<div align=center>
+  <h1>Tecnologias</h1>
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="width: 40px; height: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="width: 40px; height: 30px;">
+  </div>
+</div>
 
-### 📊 Estatísticas
+##
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavodevv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div id="container2" style="display: flex;">
+  <a href = "mailto:luiz.gsserrano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-santos-29a971311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodevv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+<img src="https://raw.githubusercontent.com/gustavodevv/gustavodevv/output/snake.svg" alt="Snake animation" />
